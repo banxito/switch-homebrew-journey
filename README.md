@@ -17,11 +17,11 @@ Carnet de bord de mon passage au homebrew sur Nintendo Switch : installation du 
 
 ## Sommaire
 
-1. [Jailbreak et emuMMC](docs/01-jailbreak.md) : ce qu'est l'emuMMC et pourquoi ma carte SD « perd » 60 Go
-2. [Dépannage](docs/02-depannage.md) : les erreurs rencontrées et comment je les ai résolues
-3. [Dump de mes jeux](docs/03-dump.md) : clés avec Lockpick, nxdumptool, rassemblage et vérification du XCI
-4. [NX2Apple](docs/04-nx2apple.md) : faire tourner mes jeux sur iPhone/iPad (à venir)
-5. [Lexique](docs/05-lexique.md) : ROM, XCI, NSP, sysMMC, emuMMC, etc.
+1. [Jailbreak et emuMMC](01-jailbreak.md) : ce qu'est l'emuMMC et pourquoi ma carte SD « perd » 60 Go
+2. [Dépannage](02-depannage.md) : les erreurs rencontrées et comment je les ai résolues
+3. [Dump de mes jeux](03-dump.md) : clés avec Lockpick, nxdumptool, rassemblage et vérification du XCI
+4. [NX2Apple](04-nx2apple.md) : faire tourner mes jeux sur iPhone/iPad (à venir)
+5. [Lexique](05-lexique.md) : ROM, XCI, NSP, sysMMC, emuMMC, etc.
 
 ## Leçons principales
 
